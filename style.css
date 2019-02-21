@@ -1,0 +1,164 @@
+#banner{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  color: white;
+  text-align: center;
+
+
+}
+#banner h1{
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+}
+#banner p{
+
+}
+
+#header h1{
+  text-align: center;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: Grey;
+}
+
+#image{
+  color: Grey;
+  text-align: center;
+
+}
+
+#identify{
+  text-align: center;
+  color: Grey;
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#focus{
+  text-align: center;
+  color: Grey;
+  font-family: helvetica;
+  font-size: 14px;
+}
+  #image2{
+    color: Grey;
+    text-align: center;
+  }
+
+  #understand{
+    text-align: center;
+    font-weight: bold;
+    font-size: 23px;
+    font-family: helvetica;
+    color: Grey
+  }
+
+
+
+
+#study{
+  text-align: center;
+  color: Grey;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+
+#image3{
+  color: Grey;
+  text-align: center;
+
+}
+
+
+#execute{
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+  font-family: helvetica;
+  color: Grey
+}
+
+#everything{
+  text-align: center;
+  color: Grey;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+#New{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+  font-family: helvetica;
+  color: white;
+}
+
+#portfolio{
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+  font-family: helvetica;
+  color: Grey
+}
+
+#soon{
+  text-align: center;
+  color: Grey;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+#Team{
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+  font-family: helvetica;
+  color: Grey
+}
+
+#hiring{
+  text-align: center;
+  color: Grey;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+#Contact{
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+  font-family: helvetica;
+  color: Grey
+}
+
+#Phone{
+  text-align: center;
+  color: Grey;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+#E-mail{
+  text-align: center;
+  color: Grey;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+#Twitter{
+  text-align: center;
+  color: Grey;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+#broadway{
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgrey;
+}
